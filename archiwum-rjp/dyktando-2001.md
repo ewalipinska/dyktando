@@ -1,0 +1,17 @@
+---
+type: dyktando
+title: Dyktando RJP 2001
+resource: https://rjp.pan.pl/dyktando-2001/
+---
+
+# XV Mistrzostwa Europy w Lekkiej Atletyce
+
+Zaledwie na znak tamburmajora przebrzmiały huczne fanfary, naówczas na Stadionie Dziesięciolecia lekkoatleci przystąpili do heroicznych zmagań. Kamerzyści zaopatrzeni w ultranowoczesny sprzęt mieli pracy w bród. Jeden z nich, półetatowiec z CNN, wpółleżąc na murawie upstrzonej kępkami roślin przypominających nurzańce, w rozchełstanej niby-czamarze, czyhał ze swą kamerą na co ciekawsze wyczyny nie lada bohaterów lekkoatletyki. Rzeczona czamara służyła wprzód jego dziadkowi pół-Francuzowi, z zawodu masażyście i metrampażowi, wcześniej – pradziadkowi, zażywnemu masarzowi z Jaworzna-Szczakowej, a nasamprzód chadzał w niej prapradziadek, hoży rostrucharz z białostockiej miejscowości Nurzec Stacja.
+
+W pośrodku stadionu, wzdłuż wyraźnej linii cienia, która w południe przerzyna stadion wpół, wyznaczono rozbieg tyczkarzom. Arcymistrz z Chociebuża, pół Polak, pół Niemiec, wpośród wrzawy kibicujących tłumów przebiegł kilkadziesiąt kroków w przód i wzbił się na swej tyczce wzwyż. Jego szybko mknące ciało mogłoby się ścigać z airbusem. Zanimby się spostrzegł, już by pokonał pięćsetdziewięćdziesięciopięcioipółcentymetrową wysokość, zatemby był pierwszy ex aequo z eks-Amerykaninem, gdyby poprzeczka, zachybotawszy, nie spadła.
+
+Naprzeciwległy obszar stadionu zajęli oszczepnicy. Znienacka spośród nich wysunął się na sam przód salzburczyk o twarzy Woody’ego Allena. Chytrze spojrzał wkoło, rozpędził się jak chyży collie i nagle, szast-prast, wyrzucił oszczep przed siebie. Ten zaś niczym stal szybkotnąca przeciął w okamgnieniu powietrze i zanurzył się w ziemi jak nużeniec w skórze. Komentator powtarzał w koło: „Superwykonawstwo! Hiperwyczyn!”, bo zaiste był to rzut nie byle jaki.
+
+„W przeddzień zawodów”
+
+Ze sczerniałych łanów pszenżyta, hycając, wychynął zając szarak. Nieopodal rozległ się krzyk kszyka, z chaszczy wynurzył się nurzyk, w okamgnieniu przeleciała upierzona popielato białorzytka. Nad ośrodkiem sportowym Fundacji na rzecz Walki z Dopingiem w Rucianem-Nidzie rozjarzyło się słońce. Sprinter wszech czasów, ponadtrzydziestodwuipółletni pół Polak, pół Irlandczyk, przybysz z Kalifornii, cierpiący co niemiara na nużycę, z której nie umiał go wyleczyć nowo kreowany doktor wszech nauk, zszedł po spróchniałych schodach w skos na antresolę. Na myśl o tym chłopku-roztropku, pseudospecjaliście od siedmiu boleści, mruknął pod nosem: „Bodajbyś sczezł, półinteligencie!”. Od rana Kalifornijczyk miał zły humor. Wczoraj w drink-barze wypił za dużo beaujolais i chianti, czym przysporzył sobie wrogów wśród zszokowanych współmieszkańców ośrodka. Wszechogarniające znużenie odebrało mu apetyt. Spożył tylko cornfleksy, cheeseburgera, sczerstwiałą bułkę i wypił łyk herbaty marki „Samowar”. Jego przyprószony siwizną quasi-opiekun z college’u, skądinąd istny quasimodo, potępiał w czambuł takie figle-migle. „Lepiej by zatańczył jive’a albo boogie-woogie alboby zagrał w scrabble’a” – pomyślał trener. Ale ten nicpotem zhardział i nic a nic nie słuchał jego wskazówek. Co bądź by rzekł, wszystko na nic. „Azaliż po to mknęliśmy w przestworzach boeingiem, by przegrać sromotnie z tym niby-mistrzem, półzawodowcem z Buska Zdroju albo pseudo-Rosjaninem z abchaskiego klubu, który przywlókł się do ośrodka rzężącym rzęchem” – żachnął się. Tymczasem supermistrz, popatrzywszy na rozżarzone słońce, zamarzył – czyżby poniewczasie – o udanym come backu na bieżnię”.

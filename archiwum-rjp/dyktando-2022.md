@@ -1,0 +1,9 @@
+---
+type: dyktando
+title: Dyktando RJP 2022
+resource: https://rjp.pan.pl/dyktando-2022/
+---
+
+# Sztangisty przygody z Polską 
+
+Pewien mało czuły i małoduszny malejczyk, sztangista wagi lekkociężkiej przemierzył glob od koła podbiegunowego północnego przez zwrotnik Raka, równoleżnik, zwrotnik Koziorożca aż po biegun południowy, by dotrzeć do Polski. Nasamprzód kazał zawieźć się na ziemię wielkopolską, do Małachowa-Złych Miejsc. Tam, przedzierając się przez mdłozielony, lecz już burzejący chabaź, użynając chabinki i buszując w marzymięcie, opędzając się od matowoczarnych omrzeli, zatrzymał się na około dwuipółdniowy pobyt w habendzie. Z jej gospodarzem, absolwentem MChAT-u, wtranżolił chabaninę z grilla, prawie już zhajcowaną do szczętu (by nie powiedzieć: do imentu). Następnie sprofanował chablis, wychłeptując je w półtrzecią [półtrzeciej] sekundy. O Polsce i sprawach okołopolskich wiedział niewiele: słyszał co nieco o Małpce Fiki-Miki (małoznacznej postaci literackiej), o nie najnowszej modzie na małomięsne fast foody, o wczesnopopołudniowej kośbie przy dźwięku złóbcoków i o mariwodażu tutejszych dżentelmenów. Wiedział o istnieniu Dagome iudex, ale sądził, że jest to antyneopozytywistyczna gadka szmatka, nic niewarta mowa-trawa. Miał więc w głowie istny miszmasz, po prostu kogel-mogel. Był też przekonany, że stolicą Polski jest Marrakesz, którym rządzi generał-gubernator, że opowieści o Jules’u Maigrecie wyszły spod pióra Polaka, że na krakowskim rynku stoi Manneken Pis, a u wezgłowi szezlongów w polskich domach (dzięki Bogu – mało dusznych) potrząsają głowami maneki-neko. Ubzdurał sobie, że mityczny małpi król to bohater małoobsadowej komedii napisanej w języku staro-cerkiewno-słowiańskim, za to Smoka Wawelskiego wziął za postać mało znaczącą. Wypisz wymaluj małpikról, nicpotem! Ożeż ty niedouku! Jak by ci to rzec: pojedźże się dokształcić, boż toć niegłupiś!
