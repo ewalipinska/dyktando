@@ -9,3 +9,4 @@ z tego, co mnie boli”? - chodzi i zapis cytatu, gdzie dajemy dwukropek, cudzys
 - Komisja Episkopatu Polski do spraw Dialogu z Judaizmem
 - Kometa ISON
 - Odznaka Honorowa za Zasługi dla Legislacji ALBO odznaka honorowa „Za Zasługi dla Turystyki”
+- T-shirt

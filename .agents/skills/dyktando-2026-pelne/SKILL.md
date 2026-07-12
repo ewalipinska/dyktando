@@ -39,6 +39,7 @@ Dokumenty w `reforma-2026/zmiany/` opisują przepisy, które w jakimś stopniu Z
   - **interpunkcja w zdaniach z porównaniami bez "jak"** (np. konstrukcje z "niż", "aniżeli", "im... tym...") oraz przy wtrąceniach imiesłowowych, apozycjach i zdaniach wielokrotnie złożonych z kilkoma spójnikami podrzędnymi naraz;
   - **cudzysłowy zagnieżdżone** (cytat w cytacie) oraz różnice między cudzysłowem a znakiem stosowanym przy tytułach/nazwach własnych w tym samym zdaniu.
   Unikaj podstawowych, szkolnych przykładów typu "przecinek przed że/który" jako GŁÓWNEGO testowanego elementu — takie proste konstrukcje mogą pojawić się w tle zdania, ale nie powinny być twoim celowym, zaplanowanym punktem trudności.
+- **W razie wątpliwości lub gdy szukasz dodatkowych, trudniejszych pułapek** (np. gdy lista klasycznych przykładów powyżej wydaje się wyczerpana albo potrzebujesz potwierdzenia poprawnej formy) — sięgnij do `zasady/zasady-pisowni-i-interpunkcji.md`. To główne źródło referencyjne zasad ortografii i interpunkcji spoza reformy 2026; traktuj je jako pierwszy przystanek przy szukaniu dodatkowego urozmaicenia lub przy weryfikacji, czy dana konstrukcja jest poprawnie zapisana.
 - Zapisz sobie (wewnętrznie, nie w odpowiedzi dla użytkownika) krótką listę zaplanowanych zasad — posłuży do weryfikacji na Kroku 4.
 - Poziom trudności: wysoki, jak w krótkich ćwiczeniach — sięgaj po rzadkie, archaiczne lub mało oczywiste słownictwo, wzorem `archiwum-rjp/*.md`, a nie podręcznikowe przykłady.
 
@@ -50,6 +51,7 @@ Dokumenty w `reforma-2026/zmiany/` opisują przepisy, które w jakimś stopniu Z
 
 ### Krok 4: Zweryfikuj przed zapisaniem
 - Przeczytaj własny tekst jeszcze raz, zdanie po zdaniu, i sprawdź każdą zaplanowaną z Kroku 2 zasadę — czy rzeczywiście jest obecna i poprawnie zapisana.
+- Jeśli przy którejś klasycznej (spoza reformy 2026) konstrukcji masz wątpliwość co do poprawnego zapisu — sprawdź ją w `zasady/zasady-pisowni-i-interpunkcji.md`, zamiast zgadywać.
 - Sprawdź limit słów (dokładne liczenie, nie szacunek).
 - Sprawdź podstawową poprawność gramatyczną (zgodność przypadków, liczby, rodzaju) — błąd gramatyczny w dyktandzie jest niedopuszczalny, bo tekst ma być dyktowany jako wzorcowy.
 
@@ -71,3 +73,4 @@ Zapytaj, czy użytkownik chce kolejne dyktando (np. na inny temat, z innym zesta
 - `reforma-2026/komunikat-rjp.md` — źródło prawdy o tym, co dokładnie zmieniła reforma (Załącznik nr 1).
 - `reforma-2026/zmiany/*.md` — pełne teksty zmienionych zasad, źródło poprawnych form po 2026 r.
 - `reforma-2026/zmiany/index.md` — lista dostępnych plików zasad.
+- `zasady/zasady-pisowni-i-interpunkcji.md` — ogólne (spoza reformy 2026) zasady ortografii i interpunkcji; sprawdzaj tu w razie wątpliwości oraz gdy szukasz dodatkowych, trudniejszych pułapek do Kroku 2/4.
