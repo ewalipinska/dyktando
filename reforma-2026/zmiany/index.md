@@ -21,25 +21,25 @@
 * [[195] W wyrazach złożonych z liczebnika pół i rzeczownika, który jest nazwą własną](195.md)
  
 # Zasady dodane:
-* [451] Jedno- i wielowyrazowe utrwalone określenia opisowe lub metaforyczne osób
-* [462] Konwencjonalne określenia opisowe lub metaforyczne drużyn sportowych
-* [463] Potoczne tłumaczenia lub przekształcenia nazw zespołów muzycznych
-* [452] [@@138] Pisownia par wyrazów równorzędnych, podobnie lub identycznie brzmiących, występujących zwykle razem
-* [454] Nazwy indywidualne nadane środkom transportu, statkom wodnym, statkom kosmicznym itp.
-* [455] Nazwy indywidualne nadane pomieszczeniom
-* [456] Nazwy indywidualne nadane przedmiotom szczególnie ważnym i cennym
-* [457] Skrótowce pochodzące od nazw lub określeń pisanych małymi literami
-* [461] Pisownia cząstek bym, byś, by, byśmy, byście po partykułach
+* [[451] Jedno- i wielowyrazowe utrwalone określenia opisowe lub metaforyczne osób](451.md)
+* [[462] Konwencjonalne określenia opisowe lub metaforyczne drużyn sportowych](462.md)
+* [[463] Potoczne tłumaczenia lub przekształcenia nazw zespołów muzycznych](463.md)
+* [[452] [@@138] Pisownia par wyrazów równorzędnych, podobnie lub identycznie brzmiących, występujących zwykle razem](452.md)
+* [[454] Nazwy indywidualne nadane środkom transportu, statkom wodnym, statkom kosmicznym itp.](454.md)
+* [[455] Nazwy indywidualne nadane pomieszczeniom](455.md)
+* [[456] Nazwy indywidualne nadane przedmiotom szczególnie ważnym i cennym](456.md)
+* [[457] Skrótowce pochodzące od nazw lub określeń pisanych małymi literami](457.md)
+* [[461] Pisownia cząstek bym, byś, by, byśmy, byście po partykułach](461.md)
  
 # Zasady usunięte z uwagi na wypunktowane powyżej zmiany:
-* [69] Przymiotniki dzierżawcze zakończone na -owski, -owy, -in, -yn, -ów (…)
-* [91] Nazwy pospolite użyte w funkcji nazw własnych osób i miejsc
-* [124] Nazwy mieszkańców miast, osiedli i wsi
-* [131] Skrótowce używane w znaczeniu nazw pospolitych, a nie jako jednostkowe nazwy
-* [160] Z następującymi partykułami
-* [162] W wyrazach porównawczych
-* [178] Przed przymiotnikami i przysłówkami w stopniu wyższym i najwyższym
-* [179] Przed przysłówkami wtedy, kiedy partykuła nie stanowi część frazy przysłówkowej, która łączy się z podmiotem w celowniku
-* [188] Pisownia połączeń wyrazowych z członami niby-, quasi-
-* [189] W parach wyrazów podobnie brzmiących występujących zawsze razem, mających charakter zestawień równorzędnych
+* [[69] Przymiotniki dzierżawcze zakończone na -owski, -owy, -in, -yn, -ów (…)](usuniete/69.md)
+* [[91] Nazwy pospolite użyte w funkcji nazw własnych osób i miejsc](usuniete/91.md)
+* [[124] Nazwy mieszkańców miast, osiedli i wsi](usuniete/124.md)
+* [[131] Skrótowce używane w znaczeniu nazw pospolitych, a nie jako jednostkowe nazwy](usuniete/131.md)
+* [[160] Z następującymi partykułami](usuniete/160.md)
+* [[162] W wyrazach porównawczych](usuniete/162.md)
+* [[178] Przed przymiotnikami i przysłówkami w stopniu wyższym i najwyższym](usuniete/178.md)
+* [[179] Przed przysłówkami wtedy, kiedy partykuła nie stanowi część frazy przysłówkowej, która łączy się z podmiotem w celowniku](usuniete/179.md)
+* [[188] Pisownia połączeń wyrazowych z członami niby-, quasi-](usuniete/188.md)
+* [[189] W parach wyrazów podobnie brzmiących występujących zawsze razem, mających charakter zestawień równorzędnych](usuniete/189.md)
  
