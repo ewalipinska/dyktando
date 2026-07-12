@@ -1855,7 +1855,7 @@ _Jagiellonowie_ , _Karolingowie_ , _Tudorowie_ .
 
 7. Nazwy świąt i dni świątecznych, np. 
 
-_Nowy Rok_ , _Wielkanoc_ , _Święto Trzech Króli_ , _Wszystkich Świętych_ , _Zaduszki_ , 
+_Nowy Rok_ , _Wielkanoc_ , _Wszystkich Świętych_ , _Zaduszki_ , 
 
 _Narodowe Święto Niepodległości_ , _Święto Narodowe Trzeciego Maja_ , 
 

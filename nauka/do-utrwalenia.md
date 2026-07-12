@@ -1,0 +1,257 @@
+- z dziada pradziada
+- w sklepie, w sklepach IKEA (a. IKE-i, a. Ikei);
+- półspał, półczuwał
+- Morze Bałtyk
+- morze Marmara
+- spicetka (= np. Victoria Beckham jako członkini zespołu Spice Girls).
+- W jakiej sytuacji Stefan Czarniecki wypowiedział słowa: „Jam nie z soli ani z roli, tylko
+z tego, co mnie boli”? - chodzi i zapis cytatu, gdzie dajemy dwukropek, cudzysłów i zdanie zaczynamy wielką literą
+- Komisja Episkopatu Polski do spraw Dialogu z Judaizmem
+- Kometa ISON
+- Odznaka Honorowa za Zasługi dla Legislacji ALBO odznaka honorowa „Za Zasługi dla Turystyki”
+- T-shirt
+- brafitterka
+- Ytong  (produkt marki Ytong)
+- kwaśnosłodki ale! słodko-kwaśny
+- courvoisier, courvoisiera
+- sztukamięs - sztuka mięsa
+- burzany - roślina stepowa, przenoszona przez wiatr
+- bażyny - krzewinka rosnąca na obszarze arktycznym i w górach Ameryki Północnej
+- Narew, Kotlina Narwi
+- lejtmotyw - element treści, stylu lub kompozycji dzieła przewijający się przez cały utwór
+- enchirydion - podręcznik
+- apoftegmat - krótka anegdota lub powiedzenie, zręcznie dostosowane do okoliczności
+- pluralis maiestaticus
+- va banque
+- język średnio-dolno-niemiecki
+- mrzonki
+- zahurgotało
+- zacharchotało
+- dziwożona
+- mszywioł - drobne zwierzę wodne żyjące w przybrzeżnej strefie wód tropikalnych
+- decoupage’u/dekupażu
+- dęba - sztaba u wierzei
+- rzegot
+- rzekotka
+- gnatarz
+- bieluń dziędzierzawa
+- diffenbachia, dieffenbachia [wym. difenbachia] - tropikalna roślina o nakrapianych liściach
+- ostrężyna - jeżyna
+- Citroën
+- rzęch
+- mało sprawny, dawno niewidziany
+- Wnory-Pażochy
+- rozkurz
+- drużbart
+- notabene
+- afterparty
+- buspas
+- dissować
+- Euroland - kraje europejskie, które posługują się walutą euro
+- Fejs - Facebook
+- kamper
+- mem
+- tweetować
+- wiral
+- vlogger
+- modeling 
+- piarowiec / PR-owirc
+- guacamole
+- carpaccio
+- bulgur
+- muffinki
+- penne
+- multi-kulti
+- gdzieniegdzie
+- grapefruit / grejpfrut
+- hucpa
+- masarz - osoba zajmująca się wyrobem wędlin 
+- skądinąd
+- sponad (... gór nadciąga chmura)
+- widzimisię
+- w pół słowa (!ALE wpół do trzeciej, zgiąć wpół)
+- szczwół plamisty - roślina 
+- nachur - taka koza
+- walentynki
+- Dolnołużyczanin
+- Chociebuż
+- abchaski (od Abchazja)
+- Bochum - miasto w Niemczech
+- chałturzyć - robić niedbale 
+- Hażanin - mieszkaniec Hagi
+- Grzegrzółki - wieś w powiecie szczycieńskim
+- Tycierz - wieś w woj. małopolskim
+- Pogórze Rożnowskie
+- Borzęta - wieś w woj. małopolskim
+- Lubrza - wieś w woj. lubuskim 
+- Chocież - miasto w woj. wielkopolskim
+- Łobżenica - miasto w woj. wielkopolskim
+- ekstrahumor
+- wpółprzytomny
+- żorżeta
+- écru 
+- zwarzone (... mleko)
+- Husqvarna
+- pilarz
+- około dwugodzinny
+- nomen omen 
+- chyży
+- chojrak
+- hopak - ukraiński taniec ludowy
+- Chopok - szczyt w Tatrach
+- himalaje głupoty - szczyt głupoty
+- brzoza-płaczka - cytat z W. Broniewskiego
+- matka Polka 
+- najeźdźczy
+- ciemiężca
+- tryumf albo triumf
+- unurzać - zanurzyć
+- nieswój (!ALE nie swój)
+- Dzwon Zygmunt
+- Park Jordana
+- zhardziały
+- Bruno Schulz
+- megalustro
+- hojny
+- wyposażony
+- uhla - ptak
+- ohar - ptak wodny
+- gzić się - zaspokajać popęd płciowy (gżąc się)
+- cudokaczka
+- wiktoria ALBO victoria - zwycięstwo
+- strzeż się
+- łże-elita
+- Kasztanka - klacz Piłsudskiego
+- Sulejówek
+- pseudopark
+- żelbetowy
+- Mściwój - imię ksiąąt pomorskich
+- arkadia - krain szczęśliwości
+- Arkadia - kraina historyczna
+- dantejskie piekło/sceny
+- kruża - dzban
+- dzieża - naczynie do wyrabiania chleba
+- źrzały - dojrzały/silny
+- żołna - ptak
+- wrzepić - wyznaczyć coś komuś, zwykle jako karę
+- żagiew - płonący kawał drewna
+- żgnąć - uderzyć czymś ostrym
+- więcierz - pułapka na ryby
+- rogoża - roślina 
+- żętyca - serwatka z mleka
+- sztambuch - pamiętnik z aforyzmami
+- chcąc nie chcąc 
+- chyżo, chyży
+- w poprzek
+- hocki-klocki
+- start-up
+- idée fixe 
+- ni stąd, ni zowąd 
+- tuż-tuż 
+- łapu-capu
+- radzi nieradzi
+- trzeba by 
+- scheda - odziedziczony po kimś majątek
+- call center
+- instruktarz - książka z instrukcjami
+- instruktaż - szkolenie, instruowanie 
+- mojra - los/fatum
+- korpowyrzutek 
+- hołubiony
+- hoży 
+- ekscytrzystka - osoba grająca na cytrze 
+- Hłudno
+- Chyżne 
+- Czuwasz - mieszkaniec Czuwaszji
+- Zawołże 
+- Amu-daria - rzeka w Uzbekistanie
+- Syr-daria
+- Borzygniew - imię i wieś
+- Skórcz
+- taekwondo
+- Pelplin
+- Wierzyca - rzeka
+- zalew Chańcza 
+- żegawka - rodzaj pokrzywy
+- ożanka - roślina 
+- rzewień - rabarbar 
+- ciemierzyca ALBO ciemiężyca
+- tomahawk 
+- burzanka
+- żeń-szeń
+- żeńszeniowy
+- jagody goji
+- nasiona kolo (od "kola")
+- nachos 
+- Lay's, chipsy Lay's (!ALE żywiąc się Lay'sami)
+- café au lait
+- ad Kalendas Graecas - odłoyć coś do terminu, który nie nastąpi
+- Sławomir Shuty
+- biedapensyjka
+- Trzebinia, -ni
+- rokrocznie 
+- święto Trzech Króli
+- bagier - maszyna wydobywająca grunt z dna
+- Przylasek Rusiecki - obszar Krakowa 
+- mormyszka - sztuczna przynęta 
+- matriks 
+- o nicku "Kustosz" - ! zapis nicków
+- "Szkieletor" - wieżowiec w Krakowie, Unity Tower
+- lista światowego dziedzictwa UNESCO
+- Rydlówka - Regionalne Muzeum Młodej Polski
+- marzanna 
+- Ar-Rab al-Chali - pustynia na Półwyspie Arabskim
+- Mur Berliński
+- znowuż
+- Bhutan
+- Błonia Krakowskie
+- Bruegel, Bruegla
+- hyzop lekarski - roślina
+- ochwat, ochwacony - choroba kopyta 
+- muc - koń drobnej rasy
+- expressis verbis - dobitnie
+- Na Gołdzie - część krakowskiego Rynku Głównego
+- hołd pruski
+- parcours ALBO parkur
+- haworcja - taki kaktus
+- vis-à-vis
+- oldskulowy
+- harcować
+- strzyyk woleoczko
+- Pani Lola z monologów Bronisława Maja
+- horda 
+- śmichy-chichy
+- C-dur i c-moll
+- półsiedząc, półleżąc
+- rad nierad 
+- łapu-capu
+- bohomaz 
+- hałastra - banda, zgraja
+- w koło Macieju
+- wrócić niezadługo 
+- Hyundai, Hyundaia
+- Gdynia Chylonia 
+- w tę i we w tę (potocznie uznawane: wte i wewte)
+- donżuan 
+- Biedaczyna z Asyżu 
+- lwipyszczek 
+- cud-kobieta
+- koszałki-opałki 
+- gadu-gadu
+- Hucuł
+- Hyżne - podrzeszowska wieś
+- chyża - zagroda łemkowska
+- Hoczew - wieś w woj. podkarpackim 
+- Rzepedź - wieś w woj. podkarpackim 
+- urzet - roślina (krzew)
+- bażyna - wrzosowata roślina 
+- dzierzba - ptak
+- dzieża - naczynie 
+- tuż-tuż
+- Noc Muzeów
+- harmider 
+- blitzkrieg - wojna błyskawiczna
+- gimbus - uczeń gimnazjum
+- SIM-lock
+
+ż
