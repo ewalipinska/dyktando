@@ -1,0 +1,1 @@
+leczby niechybnie niepełny to był sukces, jeśliby zszargała swą superopinię > lecz by niechybnie niepełny to był sukces, jeśli by zszargała swą superopinię

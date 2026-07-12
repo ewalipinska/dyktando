@@ -1,0 +1,1 @@
+cętkowane niby-oczy > cętkowane nibyoczy
