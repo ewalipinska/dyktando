@@ -1,3 +1,10 @@
+---
+type: nauka
+title: Pisownia do utrwalenia
+description: Słowa, których pisownię chcę sobie lepiej utrwalić
+---
+
+# Pisownia do utrwalenia
 - z dziada pradziada
 - w sklepie, w sklepach IKEA (a. IKE-i, a. Ikei);
 - półspał, półczuwał

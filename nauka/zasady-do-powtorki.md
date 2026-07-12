@@ -1,3 +1,11 @@
+---
+type: nauka
+title: Zasady do powtórki 
+description: Konkretne zasady pisowni, które chcę regularnie ćwiczyć
+---
+
+# Zasady do powtórki 
+
 - name: zasady, 4.1 pkt 6
   description: Łączna pisownia przymiotników złożonych
   example: tużprzedwojenny
