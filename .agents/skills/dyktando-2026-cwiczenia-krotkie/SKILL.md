@@ -69,4 +69,4 @@ Zapytaj (albo, jeśli z kontekstu jasno wynika, że to sesja ciągła — po pro
 ## Źródła
 - `reforma-2026/komunikat-rjp.md` — najważniejsze źródło: co dokładnie się zmieniło (Załącznik nr 1).
 - `reforma-2026/zmiany/*.md` — pełne teksty zmienionych zasad.
-- `reforma-2026/zmiany/index.md` — lista dostępnych plików zasad (w tym zasady dodane, które mogą nie mieć jeszcze pełnej treści w osobnych plikach — w takim wypadku pomiń je przy losowaniu).
+- `reforma-2026/zmiany/index.md` — lista dostępnych plików zasad
